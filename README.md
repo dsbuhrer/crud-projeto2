@@ -16,7 +16,6 @@ Certifique-se de ter o PHP 8.1 e o Node.js 14.21 instalados em seu sistema antes
 2. Acesse o diretório do projeto:
     
     ```bash
-    bashCopy code
     cd laravel
     
     ```
@@ -24,7 +23,6 @@ Certifique-se de ter o PHP 8.1 e o Node.js 14.21 instalados em seu sistema antes
 3. Instale as dependências PHP usando o Composer:
     
     ```
-    Copy code
     composer install
     
     ```
@@ -32,7 +30,6 @@ Certifique-se de ter o PHP 8.1 e o Node.js 14.21 instalados em seu sistema antes
 4. Instale as dependências JavaScript usando o npm:
     
     ```
-    Copy code
     npm install
     
     ```
@@ -45,7 +42,6 @@ Após instalar todas as dependências, você pode rodar a aplicação utilizando
 Para rodar a aplicação localmente em um servidor de desenvolvimento, utilize o seguinte comando:
 
 ```
-Copy code
 php artisan serve
 
 ```
