@@ -1,4 +1,4 @@
-# **Projeto Laravel 11**
+# **Projeto Laravel 11 para a matéria de Projeto de software 2**
 
 Este é um projeto Laravel 11 construído com PHP 8.1 e Node.js 14.21.
 
