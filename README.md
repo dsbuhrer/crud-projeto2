@@ -6,7 +6,7 @@ Este é um projeto Laravel 11 construído com PHP 8.1 e Node.js 14.21.
 
 Certifique-se de ter o PHP 8.1 e o Node.js 14.21 instalados em seu sistema antes de continuar.
 
-1. Clone o repositório para o seu ambiente local:
+1. Clone o repositório para o seu ambiente local, ou entre no link do github e faça o dowload do zip(o mesmo enviado pelo e-mail):
     
     ```bash
     git clone https://github.com/dsbuhrer/crud-projeto2.git

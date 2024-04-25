@@ -58,7 +58,7 @@
                                         <td class="px-6 py-4 whitespace-nowrap">{{ $car->model }}</td>
                                         <td class="px-6 py-4 whitespace-nowrap">{{ $car->brand }}</td>
                                         <td class="px-6 py-4 whitespace-nowrap">{{ $car->year }}</td>
-                                        <td class="px-6 py-4 whitespace-nowrap">{{ $car->price }}</td>
+                                        <td class="px-6 py-4 whitespace-nowrap">R${{ $car->price }}</td>
                                         <td class="px-6 py-4 whitespace-nowrap">
                                             <div class="flex items-center space-x-2">
                                                 <a href="{{ url('/cars/' . $car->id) }}" title="Editar Carro">
